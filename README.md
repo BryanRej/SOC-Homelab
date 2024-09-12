@@ -29,8 +29,9 @@ Setup Vultr: I start by heading to the Vultr cloud provider website and setting 
 
 <br />
   
-After setting up my account, I head over to prodducts and create my personal VPC.<br/>
+After setting up my account, I head over to products and create my VPC.<br/>
 <img src="https://i.imgur.com/izhEEse.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/RB7Jw1J.png" height="80%" width="80%" alt="Setup"/>
 <br />
 <br />
 
