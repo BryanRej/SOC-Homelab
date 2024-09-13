@@ -40,8 +40,11 @@ I decided to remote into the server instead of using the server's console. I the
 <img src="https://i.imgur.com/fgY4hmx.png" height="80%" width="80%" alt="Setup"/>
 <img src="https://i.imgur.com/V9Y13HW.png" height="80%" width="80%" alt="Setup"/>
 <img src="https://i.imgur.com/pHbEhRE.png" height="80%" width="80%" alt="Setup"/>
-
 <br />
+
+Next, I adjusted the firewall rules of the ELK server within VULTR. <br/>
+<img src="https://i.imgur.com/nuuhrKs.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/avc9XC4.png" height="80%" width="80%" alt="Setup"/>
 <br />
 
 </p>
