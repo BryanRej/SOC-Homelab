@@ -33,6 +33,15 @@ After setting up my account, I head over to products and create my VPC.<br/>
 <img src="https://i.imgur.com/izhEEse.png" height="80%" width="80%" alt="Setup"/>
 <img src="https://i.imgur.com/RB7Jw1J.png" height="80%" width="80%" alt="Setup"/>
 <br />
+
+I decided to remote into the server instead of using the server's console. I then updated the server and began installing/configuring ElasticSearch and Kibana. <br/>
+<img src="https://i.imgur.com/7oaeTmI.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/dnts08L.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/fgY4hmx.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/V9Y13HW.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/pHbEhRE.png" height="80%" width="80%" alt="Setup"/>
+
+<br />
 <br />
 
 </p>
