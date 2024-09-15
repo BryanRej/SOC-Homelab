@@ -47,4 +47,11 @@ Next, I adjusted the firewall rules of the ELK server within VULTR. <br/>
 <img src="https://i.imgur.com/avc9XC4.png" height="80%" width="80%" alt="Setup"/>
 <br />
 
+Now, I begin setting up my Elastic instance. <br/>
+<img src="https://i.imgur.com/g3qakMC.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/YIW6s2M.png" height="80%" width="80%" alt="Setup"/>
+<br />
+
+
+
 </p>
