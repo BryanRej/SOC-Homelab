@@ -49,9 +49,15 @@ Next, I adjusted the firewall rules of the ELK server within VULTR. <br/>
 
 Now, I begin setting up my Elastic instance. <br/>
 <img src="https://i.imgur.com/g3qakMC.png" height="80%" width="80%" alt="Setup"/>
-<img src="https://i.imgur.com/YIW6s2M.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/DfpIUFG.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/gViZh6T.png" height="80%" width="80%" alt="Setup"/>
 <br />
 
+Logging into the instance. Configuring API encryption tokens. <br/>
+<img src="" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/YIW6s2M.png" height="80%" width="80%" alt="Setup"/>
+
+<br />
 
 
 </p>
