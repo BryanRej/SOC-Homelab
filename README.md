@@ -53,10 +53,14 @@ Now, I begin setting up my Elastic instance. <br/>
 <img src="https://i.imgur.com/gViZh6T.png" height="80%" width="80%" alt="Setup"/>
 <br />
 
-Logging into the instance. Configuring API encryption tokens. <br/>
-<img src="" height="80%" width="80%" alt="Setup"/>
+Logging into the instance. Configuring Kibana key stores and API encryption tokens. <br/>
 <img src="https://i.imgur.com/YIW6s2M.png" height="80%" width="80%" alt="Setup"/>
-
+<img src="https://i.imgur.com/HyyM19J.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/V985f4g.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/ofSPAue.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/ELjzRMN.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/2Csc60F.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/rEQ80HW.png" height="80%" width="80%" alt="Setup"/>
 <br />
 
 
