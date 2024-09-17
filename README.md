@@ -63,5 +63,10 @@ Logging into the instance. Configuring Kibana key stores and API encryption toke
 <img src="https://i.imgur.com/rEQ80HW.png" height="80%" width="80%" alt="Setup"/>
 <br />
 
+Creating my Windows Server with RDP enabled. It will be separated from my VNC for safety reasons.  <br/>
+<img src="https://i.imgur.com/TG5zq5R.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/XLfUILW.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/j6jRdRN.png" height="80%" width="80%" alt="Setup"/>
+<br />
 
 </p>
