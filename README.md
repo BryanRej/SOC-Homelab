@@ -69,4 +69,16 @@ Creating my Windows Server with RDP enabled. It will be separated from my VNC fo
 <img src="https://i.imgur.com/j6jRdRN.png" height="80%" width="80%" alt="Setup"/>
 <br />
 
+Creating and updating my Ubuntu fleet server. <br/>
+<img src="https://i.imgur.com/nuuhrKs.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/avc9XC4.png" height="80%" width="80%" alt="Setup"/>
+<br />
+
+Adding my fleet server and Elastic agent from the Windows server to the Elastic web Gui instance. <br/>
+<img src="https://i.imgur.com/TwNXHQN.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/TQ97ATO.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/w1sF3YD.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/U8ohE9L.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/wfej6j1.png" height="80%" width="80%" alt="Setup"/>
+<br />
 </p>
