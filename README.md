@@ -23,7 +23,7 @@ This project uses the VULTR cloud provider and various virtual machines to simul
 <br />
   
 Setup Vultr: I start by heading to the Vultr cloud provider website and setting up my cloud account. https://www.Vultr.com<br/>
-<img src="https://i.imgur.com/0aUqZuP.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/FaqRuDa.png" width="80%" alt="Setup"/>
 <br />
 <br />
 
