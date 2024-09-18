@@ -91,5 +91,18 @@ Installing Sysmon along with a special configuration file on my Windows server f
 <img src="https://i.imgur.com/CEU6nl7.png" height="80%" width="80%" alt="Setup"/>
 <img src="https://i.imgur.com/HHpodL5.png" height="80%" width="80%" alt="Setup"/>
 <br />
+Integrating my Windows server Sysmon and Windows Defender logs into my Elastic instance. <br/>
+<img src="https://i.imgur.com/uLgHz7m.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/Y8DlClS.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/V1DETRb.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/MQou6VC.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/tCsP6OX.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/bSh7lIx.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/Hlq6JuY.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/uwNRSRs.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/ZlSetzK.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/iWgZrfg.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/KF7G5Jj.png" height="80%" width="80%" alt="Setup"/>
+<br />
 
 </p>
