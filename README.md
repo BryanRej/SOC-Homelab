@@ -91,7 +91,7 @@ Installing Sysmon along with a special configuration file on my Windows server f
 <img src="https://i.imgur.com/CEU6nl7.png" height="80%" width="80%" alt="Setup"/>
 <img src="https://i.imgur.com/HHpodL5.png" height="80%" width="80%" alt="Setup"/>
 <br />
-Integrating my Windows server Sysmon and Windows Defender logs into my Elastic instance. <br/>
+Integrating my Windows server Sysmon and Windows Defender logs into my Elastic instance. I needed to adjust the firewall rules on my VPC to allow incoming traffic from the correct port to enable viewing of the Windows server telemetry. <br/>
 <img src="https://i.imgur.com/uLgHz7m.png" height="80%" width="80%" alt="Setup"/>
 <img src="https://i.imgur.com/Y8DlClS.png" height="80%" width="80%" alt="Setup"/>
 <img src="https://i.imgur.com/V1DETRb.png" height="80%" width="80%" alt="Setup"/>
