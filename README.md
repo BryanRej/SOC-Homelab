@@ -81,4 +81,15 @@ Adding my fleet server and Elastic agent from the Windows server to the Elastic 
 <img src="https://i.imgur.com/U8ohE9L.png" height="80%" width="80%" alt="Setup"/>
 <img src="https://i.imgur.com/wfej6j1.png" height="80%" width="80%" alt="Setup"/>
 <br />
+
+<br />
+
+Installing Sysmon along with a special configuration file on my Windows server for endpoint detection. <br/>
+<img src="https://i.imgur.com/QhiOrjV.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/Axl4APa.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/NrMqCAe.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/CEU6nl7.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/HHpodL5.png" height="80%" width="80%" alt="Setup"/>
+<br />
+
 </p>
