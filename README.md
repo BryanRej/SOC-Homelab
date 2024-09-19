@@ -105,4 +105,13 @@ Integrating my Windows server Sysmon and Windows Defender logs into my Elastic i
 <img src="https://i.imgur.com/KF7G5Jj.png" height="80%" width="80%" alt="Setup"/>
 <br />
 
+Creating and updating repositories  for my Ubuntu SSH server. Checking auth.logs file for any data on authentication attempts. <br/>
+<img src="https://i.imgur.com/lUxDcyR.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/2vp8S9t.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/0kvpdiZ.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/DedqfcO.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/sSYc5YA.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/weyVtte.png" height="80%" width="80%" alt="Setup"/>
+<br />
+
 </p>
