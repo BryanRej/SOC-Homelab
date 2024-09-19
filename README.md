@@ -114,4 +114,16 @@ Creating and updating repositories  for my Ubuntu SSH server. Checking auth.logs
 <img src="https://i.imgur.com/weyVtte.png" height="80%" width="80%" alt="Setup"/>
 <br />
 
+Installing Elastic agent onto the new Ubuntu server and integrating the logs to my Elastic instance. Modifying the network firewall to allow traffic from the Ubuntu server. Examining suspicious authentication attempts for my root user from specific IP addresses in Elastic. <br/>
+<img src="https://i.imgur.com/kYq3p3v.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/5gJgFqT.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/sdN3hZx.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/8NnPjCJ.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/CPwc7b7.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/BMZuQHk.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/7nmHxCB.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/aVuFVX9.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/iNZ1yTH.png" height="80%" width="80%" alt="Setup"/>
+<br />
+
 </p>
