@@ -52,13 +52,13 @@ Now, I begin setting up my Elastic instance. <br/>
 <br />
 
 Logging into the instance. Configuring Kibana key stores and API encryption tokens. <br/>
-<img src="https://i.imgur.com/YIW6s2M.png" height="80%" width="80%" alt="Setup"/>
-<img src="https://i.imgur.com/HyyM19J.png" height="80%" width="80%" alt="Setup"/>
-<img src="https://i.imgur.com/V985f4g.png" height="80%" width="80%" alt="Setup"/>
-<img src="https://i.imgur.com/ofSPAue.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/SqzvJ8E.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/6Hnrq4F.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/lwyqYSt.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/a8AWeLg.png" height="80%" width="80%" alt="Setup"/>
 <img src="https://i.imgur.com/ELjzRMN.png" height="80%" width="80%" alt="Setup"/>
 <img src="https://i.imgur.com/2Csc60F.png" height="80%" width="80%" alt="Setup"/>
-<img src="https://i.imgur.com/rEQ80HW.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/my2xUIb.png" height="80%" width="80%" alt="Setup"/>
 <br />
 
 Creating my Windows Server with RDP enabled. It will be separated from my VNC for safety reasons.  <br/>
