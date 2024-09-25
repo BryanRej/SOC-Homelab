@@ -125,12 +125,14 @@ Installing Elastic agent onto the new Ubuntu server and integrating the logs to 
 <br />
 
 Creating alerts and dashboards in Elastic. I tune the rules to look for failed and successful authentication attempts on my SSH Ubuntu server. <br/>
-<img src="" height="80%" width="80%" alt="Setup"/>
-<img src="" height="80%" width="80%" alt="Setup"/>
-<img src="" height="80%" width="80%" alt="Setup"/>
-<img src="" height="80%" width="80%" alt="Setup"/>
-<img src="" height="80%" width="80%" alt="Setup"/>
-<img src="" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/zfbWMyK.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/Ss7qIB6.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/Wn6M5w3.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/xWaSCTz.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/0IWF9Lb.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/CPQ5LoW.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/AkwLRyb.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/Lpc4T5h.png" height="80%" width="80%" alt="Setup"/>
 <br />
 
 </p>
