@@ -135,4 +135,15 @@ Creating alerts and dashboards in Elastic. I tune the rules to look for failed a
 <img src="https://i.imgur.com/Lpc4T5h.png" height="80%" width="80%" alt="Setup"/>
 <br />
 
+Creating enhanced detection rules for my Windows and Ubuntu server agents. I wanted more information on adversaries to be displayed each time an authentication attempt occurs. <br/>
+<img src="" height="80%" width="80%" alt="Setup"/>
+<img src="" height="80%" width="80%" alt="Setup"/>
+<img src="" height="80%" width="80%" alt="Setup"/>
+<img src="" height="80%" width="80%" alt="Setup"/>
+<img src="" height="80%" width="80%" alt="Setup"/>
+<img src="" height="80%" width="80%" alt="Setup"/>
+<img src="" height="80%" width="80%" alt="Setup"/>
+<img src="" height="80%" width="80%" alt="Setup"/>
+<br />
+
 </p>
