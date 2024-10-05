@@ -144,4 +144,12 @@ Creating enhanced detection rules for my Windows and Ubuntu server agents. I wan
 <img src="https://i.imgur.com/8NuPWPe.png" height="80%" width="80%" alt="Setup"/>
 <br />
 
+Creating visualizations for my dashboard.  <br/>
+<img src="https://i.imgur.com/DsDrlz1.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/uWNsqkt.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/Nbei2O3.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/EstcxN0.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/qV9cXOu.png" height="80%" width="80%" alt="Setup"/>
+<br />
+
 </p>
