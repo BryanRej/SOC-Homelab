@@ -7,12 +7,12 @@ This project uses the VULTR cloud provider and various virtual machines to simul
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Linux, Powershell, Splunk </b> 
+- <b>Linux, Powershell,  </b> 
 
 
 <h2>Environments Used </h2>
 
-- <b>Vultr Cloud, Ubuntu Server, Windows Server, Windows 10, Kali Linux, Fleet Server, Mythic server, osTicket. </b> 
+- <b>Vultr Cloud, Elastic, Ubuntu, Windows Server 2022, Windows 10, Kali Linux, Fleet Server, Mythic Server, osTicket. </b> 
 
 <h2>Project walk-through:</h2>
 
