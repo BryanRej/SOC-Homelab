@@ -69,7 +69,7 @@ Creating my Windows Server with RDP enabled. It will be separated from my VNC fo
 <br />
 
 Creating and updating my Ubuntu fleet server. <br/>
-<img src="https://i.imgur.com/nuuhrKs.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/MYXOF44.png" height="80%" width="80%" alt="Setup"/>
 <img src="https://i.imgur.com/kbkAhz1.png" height="80%" width="80%" alt="Setup"/>
 <br />
 
