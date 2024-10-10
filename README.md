@@ -1,7 +1,7 @@
 <h1>SOC Homelab</h1>
 
 <h2>Description</h2>
-This project uses the VULTR cloud provider and various virtual machines to simulate a Security Operation Center environment implemented through eight virtual machines.
+This project uses the VULTR cloud provider and various virtual machines to simulate a Security Operation Center environment implemented through multiple virtual machines. Disclaimer: * All virtual machines involved in this project have been erased. *
 <br />
 
 
