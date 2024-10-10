@@ -154,11 +154,12 @@ Creating visualizations for my dashboard.  <br/>
 <br />
 
 Lastly, I wanted to implement an EDR for my endpoints. Elastic offers a built-in EDR so I set one up for my Windows server machine  <br/>
-<img src="" height="80%" width="80%" alt="Setup"/>
-<img src="" height="80%" width="80%" alt="Setup"/>
-<img src="" height="80%" width="80%" alt="Setup"/>
-<img src="" height="80%" width="80%" alt="Setup"/>
-<img src="" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/AEUuhkP.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/3toKcls.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/oLn8bpN.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/NunWHq8.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/1OLAK0W.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/gQfTZ0K.png" height="80%" width="80%" alt="Setup"/>
 <br />
 
 </p>
