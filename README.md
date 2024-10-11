@@ -167,14 +167,12 @@ Next, I create a webhook in Elastic to enable log forwarding from the ELK server
 <br />
 
 I then test the functionality of the newly created webhook. Configurations were made to my osTicket server's private IP address. Initially, I had to troubleshoot connectivity issues via the network adapter settings. You can finally see the Elastic log appear in the osTicket environment.<br/>
-<img src="" height="80%" width="80%" alt="Setup"/>
-<img src="" height="80%" width="80%" alt="Setup"/>
-<img src="" height="80%" width="80%" alt="Setup"/>
-<img src="" height="80%" width="80%" alt="Setup"/>
-<img src="" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/KOOlg9t.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/L1h86RV.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/et6zEWV.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/oq4oBF9.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/ohiY6es.png" height="80%" width="80%" alt="Setup"/>
 <br />
-
-
 
 Lastly, I wanted to implement an EDR for my endpoints. Elastic offers a built-in EDR so I set one up for my Windows server machine  <br/>
 <img src="https://i.imgur.com/AEUuhkP.png" height="80%" width="80%" alt="Setup"/>
