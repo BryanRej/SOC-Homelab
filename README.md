@@ -12,7 +12,7 @@ This project uses the VULTR cloud provider and various virtual machines to simul
 
 <h2>Environments Used </h2>
 
-- <b>Vultr Cloud, Elastic, Ubuntu, Windows Server 2022, Windows 10, Kali Linux, Fleet Server, Mythic Server, osTicket. </b> 
+- <b>Vultr Cloud, Elastic, Ubuntu, Windows Server 2022, Windows 10, Fleet Server, Mythic Server, osTicket. </b> 
 
 <h2>Project walk-through:</h2>
 
