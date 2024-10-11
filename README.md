@@ -153,23 +153,20 @@ Creating visualizations for my dashboard.  <br/>
 <img src="https://i.imgur.com/qV9cXOu.png" height="80%" width="80%" alt="Setup"/>
 <br />
 
-Implementing osTicket into the Elastic environment. Alerts from Elastic should be automatically forwarded to my osTicket logs. I start by creating an API key in osTicket. <br/>
-<img src="" height="80%" width="80%" alt="Setup"/>
-<img src="" height="80%" width="80%" alt="Setup"/>
-<img src="" height="80%" width="80%" alt="Setup"/>
-<img src="" height="80%" width="80%" alt="Setup"/>
-<img src="" height="80%" width="80%" alt="Setup"/>
+Implementing osTicket into the Elastic environment. Alerts from Elastic should be automatically forwarded to my osTicket logs. I create an API key in osTicket and direct it to my ELK server's private address. <br/>
+<img src="https://i.imgur.com/wzBbXme.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/9kKWS0t.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/9vjVrvu.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/n8faDQl.png" height="80%" width="80%" alt="Setup"/>
 <br />
 
-Next, I create a webhook in Elastic to enable log forwarding from the ELK server. <br/>
-<img src="" height="80%" width="80%" alt="Setup"/>
-<img src="" height="80%" width="80%" alt="Setup"/>
-<img src="" height="80%" width="80%" alt="Setup"/>
-<img src="" height="80%" width="80%" alt="Setup"/>
-<img src="" height="80%" width="80%" alt="Setup"/>
+Next, I create a webhook in Elastic to enable log forwarding from the ELK server. The webhook's body was copied from the osTicket GitHub repository here https://github.com/osTicket/osTicket/blob/develop/setup/doc/api/tickets.md. <br/>
+<img src="https://i.imgur.com/JBBiJ5H.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/qfzh4GK.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/4C7mgjY.png" height="80%" width="80%" alt="Setup"/>
 <br />
 
-I then test the functionality of the newly created webhook. Configurations were made to my osTicket server private IP address. There were initially connectivity issues that had to be adjusted from via the network adapter settings.<br/>
+I then test the functionality of the newly created webhook. Configurations were made to my osTicket server's private IP address. Initially, I had to troubleshoot connectivity issues via the network adapter settings. You can finally see the Elastic log appear in the osTicket environment.<br/>
 <img src="" height="80%" width="80%" alt="Setup"/>
 <img src="" height="80%" width="80%" alt="Setup"/>
 <img src="" height="80%" width="80%" alt="Setup"/>
