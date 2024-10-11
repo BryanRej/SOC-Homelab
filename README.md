@@ -153,13 +153,31 @@ Creating visualizations for my dashboard.  <br/>
 <img src="https://i.imgur.com/qV9cXOu.png" height="80%" width="80%" alt="Setup"/>
 <br />
 
-Implementing osTicket into the Elastic environment. Alerts from Elastic will be automatically forwarded to my osTicket logs.  <br/>
+Implementing osTicket into the Elastic environment. Alerts from Elastic should be automatically forwarded to my osTicket logs. I start by creating an API key in osTicket. <br/>
 <img src="" height="80%" width="80%" alt="Setup"/>
 <img src="" height="80%" width="80%" alt="Setup"/>
 <img src="" height="80%" width="80%" alt="Setup"/>
 <img src="" height="80%" width="80%" alt="Setup"/>
 <img src="" height="80%" width="80%" alt="Setup"/>
 <br />
+
+Next, I create a webhook in Elastic to enable log forwarding from the ELK server. <br/>
+<img src="" height="80%" width="80%" alt="Setup"/>
+<img src="" height="80%" width="80%" alt="Setup"/>
+<img src="" height="80%" width="80%" alt="Setup"/>
+<img src="" height="80%" width="80%" alt="Setup"/>
+<img src="" height="80%" width="80%" alt="Setup"/>
+<br />
+
+I then test the functionality of the newly created webhook. Configurations were made to my osTicket server private IP address. There were initially connectivity issues that had to be adjusted from via the network adapter settings.<br/>
+<img src="" height="80%" width="80%" alt="Setup"/>
+<img src="" height="80%" width="80%" alt="Setup"/>
+<img src="" height="80%" width="80%" alt="Setup"/>
+<img src="" height="80%" width="80%" alt="Setup"/>
+<img src="" height="80%" width="80%" alt="Setup"/>
+<br />
+
+
 
 Lastly, I wanted to implement an EDR for my endpoints. Elastic offers a built-in EDR so I set one up for my Windows server machine  <br/>
 <img src="https://i.imgur.com/AEUuhkP.png" height="80%" width="80%" alt="Setup"/>
