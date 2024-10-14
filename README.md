@@ -18,7 +18,7 @@ This project uses the VULTR cloud provider and various virtual machines to simul
 
 <p align="center">
   Create a Logical Diagram: I used draw.io to create a digital logical diagram of the entire network, its connections, and workflows. The IP ranges will be automatically configured through VULTR.  <br/>
-<img src="https://i.imgur.com/9eAZ8yH.png" height="50%" width="50%" alt="Diagram creation"/>
+<img src="https://i.imgur.com/4OLbisB.png" width="50%" alt="Diagram creation"/>
 <br />
   
 Setup Vultr: I start by heading to the Vultr cloud provider website and setting up my cloud account. https://www.Vultr.com<br/>
