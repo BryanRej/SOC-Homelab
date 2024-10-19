@@ -7,7 +7,7 @@ This project uses the VULTR cloud provider and various virtual machines to simul
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Linux, Powershell,  </b> 
+- <b>Linux, Powershell  </b> 
 
 
 <h2>Environments Used </h2>
